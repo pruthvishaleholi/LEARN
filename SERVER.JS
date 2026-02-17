@@ -15,3 +15,4 @@ server.listen(port, hostname, () => {
 });
 
 console.log(new);
+console.log(new2);
